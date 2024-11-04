@@ -25,7 +25,7 @@ def q4():
     print(quotient)
 
 def q5():
-    word = "Hello Word"
+    word = "Hello World"
     print(word)
     word = "Goodbye World"
     print(word)
